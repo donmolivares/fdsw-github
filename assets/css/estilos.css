@@ -12,7 +12,8 @@ body {
 }
 .p_verde{background-color: rgb(70, 202, 114);
 text-align: center;
-font-size: 22px;}
+font-style: bold;
+font-size: 23px;}
 
 .imagen{
   width: 250px;
