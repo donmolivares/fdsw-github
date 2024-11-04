@@ -5,11 +5,14 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/campo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
+.p_verde{background-color: rgb(70, 202, 114);
+text-align: center;
+font-size: 22px;}
 
 .imagen{
   width: 250px;
